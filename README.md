@@ -1,2 +1,2 @@
-# Getting-Started-with-Git-Blog-By---Shubham-and-Vitesh
-Just a basic information to start with git - for Beginners
+# Blog - Getting Started with Git - for Beginners
+By-Shubham-and-Vitesh
